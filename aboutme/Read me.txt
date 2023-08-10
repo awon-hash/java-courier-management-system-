@@ -1,0 +1,5 @@
+The program start with an admin login it require password and user name to start further.
+The user name is 123.
+The password is 123.
+
+Then a menu will open you can select your desire number the program tu run further.
